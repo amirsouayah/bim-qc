@@ -271,7 +271,7 @@ export default function App() {
     <div className="app">
       <header className="app-header">
         <div className="logo">▣ BIM<span className="logo-dot">·</span>QC</div>
-        <div className="header-sub">Contrôle de Programme — CDC Habitat IDF</div>
+        <div className="header-sub">Contrôle de Programme </div>
         <div className="header-right">
           {allLoaded
             ? <span className="badge badge-ok">✓ {FILE_DEFS.length} fichiers chargés</span>
